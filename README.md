@@ -4,7 +4,6 @@
 <div align="center">
     <h2>I'm Jaeyeon Jeong</h2>
     <p>안녕하세요! 주니어 프론트엔드 개발자 <strong>정재연</strong>입니다 👋🏻</p>
-    <br>
     <p>
         <img src="https://img.shields.io/badge/-Challenge-informational" />&nbsp; 
         문제가 발생하면 <strong>일단 도전</strong>하고 왜 안되는지 몰두하는 것을 좋아합니다.
@@ -14,8 +13,43 @@
         <strong>창업과 기업의 경영 컨설팅</strong>을 경험삼아, 제품 개발에 있어 소비자의 니즈를 반영하기 위해 노력합니다.
     </p>
 </div>
+<br>
+<div align="center">
+    <h2>🛠 Tech Stack 🛠</h2>
+    <h4>💡used as the main</h4>
+    <p align="center">
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+      <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+      <img src="https://img.shields.io/badge/RecordRTC-007396?style=for-the-badge&logo=RecordRTC&logoColor=black">
+      <img src="https://img.shields.io/badge/RECOIL-0550ae?style=for-the-badge&logo=RECOIL&logoColor=black">
+      <img src="https://img.shields.io/badge/React--Hook--Form-EC5990?style=for-the-badge&logo=React-Hook-Form&logoColor=white">
+      <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white">
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"/>
+    <br>
+      <img src="https://img.shields.io/badge/CloudFront-D05C4B?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+      <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+    </p>
+    <br>
+    <h4>💡used at least once</h4>
+    <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=black">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux_toolkit-764ABC?style=for-the-badge&logo=Redux_toolkit&logoColor=white">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyeoneej&show_icons=true&theme=transparent)
+
+
+
+![jaeyeoneej's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyeoneej&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeoneej&layout=Demo&theme=transparent)
+
 
 
 <!--
