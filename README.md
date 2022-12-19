@@ -56,10 +56,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeoneej&layout=compact&theme=transparent" />
 </div>
 
+<div align="center">
+    <h2>Contect me</h2>
+    📧 Email: 5ikve@naver.com
+</div>
+
 
 
 <!--
-**JaeyeoneeJ/jaeyeoneej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
