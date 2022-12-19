@@ -1,7 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jaeyeoneej's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jaeyeoneej's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
+</div>
 <br>
 
 <div align="center">
+    <a><img src="https://img.shields.io/badge/GitHub-Today_I_Learn-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
     <h2>I'm Jaeyeon Jeong</h2>
     <p>안녕하세요! 주니어 프론트엔드 개발자 <strong>정재연</strong>입니다 👋🏻</p>
     <p>
@@ -42,6 +45,7 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
     <img src="https://img.shields.io/badge/Redux_toolkit-764ABC?style=for-the-badge&logo=Redux_toolkit&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white">
 </div>
 <br>
 
