@@ -13,7 +13,7 @@
     </p>
     <p>
         <img src="https://img.shields.io/badge/-Style-orange" /> &nbsp; 
-        <strong>창업과 기업의 경영 컨설팅</strong>을 경험삼아, 제품 개발에 있어 소비자의 니즈를 반영하기 위해 노력합니다.
+        <strong>창업/브랜드 디자인/경영 컨설팅</strong>을 경험삼아, 제품 개발에 있어 소비자의 니즈를 반영하기 위해 노력합니다.
     </p>
 </div>
 <br>
