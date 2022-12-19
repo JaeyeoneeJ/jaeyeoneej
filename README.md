@@ -2,7 +2,7 @@
 <br />
 <div align="center">
 
-    <h2 style="width:auto;">I'm Jaeyeon Jeong</h2>
+    <h2>I'm Jaeyeon Jeong</h2>
     <p>안녕하세요! 주니어 프론트엔드 개발자 <strong>정재연</strong>입니다 👋🏻</p>
     <br />
     <p>
