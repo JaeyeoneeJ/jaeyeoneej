@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jaeyeoneej's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-<br />
-<div align="center">
+<br>
 
+<div align="center">
     <h2>I'm Jaeyeon Jeong</h2>
     <p>안녕하세요! 주니어 프론트엔드 개발자 <strong>정재연</strong>입니다 👋🏻</p>
-    <br />
+    <br>
     <p>
         <img src="https://img.shields.io/badge/-Challenge-informational" />&nbsp; 
         문제가 발생하면 <strong>일단 도전</strong>하고 왜 안되는지 몰두하는 것을 좋아합니다.
