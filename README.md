@@ -45,10 +45,11 @@
 </div>
 
 
-
-
-![jaeyeoneej's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyeoneej&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeoneej&layout=compact&theme=transparent)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jaeyeoneej&show_icons=true&theme=transparent" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeoneej&layout=compact&theme=transparent" />
+</div>
 
 
 
