@@ -43,9 +43,10 @@
     <img src="https://img.shields.io/badge/Redux_toolkit-764ABC?style=for-the-badge&logo=Redux_toolkit&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
 </div>
-
+<br>
 
 <div align="center">
+    <h2>GitHub</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=jaeyeoneej&show_icons=true&theme=transparent" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeoneej&layout=compact&theme=transparent" />
