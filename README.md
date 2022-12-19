@@ -53,7 +53,7 @@
     <h2>GitHub</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=jaeyeoneej&show_icons=true&theme=transparent" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeoneej&layout=compact&theme=transparent" />
+/>
 </div>
 
 <div align="center">
