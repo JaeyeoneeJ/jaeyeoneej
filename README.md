@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-    <a><img src="https://img.shields.io/badge/GitHub-Today_I_Learn-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/JaeyeoneeJ/TIL"><img src="https://img.shields.io/badge/GitHub-Today_I_Learn-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
     <h2>I'm Jaeyeon Jeong</h2>
     <p>안녕하세요! 주니어 프론트엔드 개발자 <strong>정재연</strong>입니다 👋🏻</p>
     <p>
