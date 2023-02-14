@@ -9,7 +9,7 @@
     <p>안녕하세요! 주니어 프론트엔드 개발자 <strong>정재연</strong>입니다 👋🏻</p>
     <p>
         <img src="https://img.shields.io/badge/-Challenge-informational" />&nbsp; 
-        문제가 발생하면 <strong>일단 도전</strong>하고 왜 안되는지 몰두하는 것을 좋아합니다.
+        최근에는 <strong>Interactive</strong>한 UI/UX에 관심이 많아 animate를 공부하고 있습니다.
     </p>
     <p>
         <img src="https://img.shields.io/badge/-Style-orange" /> &nbsp; 
@@ -33,13 +33,15 @@
       <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white">
       <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
       <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-      <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
+      <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
     <br>
         <img src="https://img.shields.io/badge/CloudFront-D05C4B?style=for-the-badge&logo=Amazon AWS&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
     </p>
     <br>
     <h4>💡used at least once</h4>
+    <img src="https://img.shields.io/badge/react--beautiful--dnd-0baf7c?style=for-the-badge&logo=react-native&logoColor=white">
     <img src="https://img.shields.io/badge/react--native-673AB8?style=for-the-badge&logo=react-native&logoColor=white">
     <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=black">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
