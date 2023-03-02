@@ -26,6 +26,7 @@
       <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       <br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
       <img src="https://img.shields.io/badge/RecordRTC-007396?style=for-the-badge&logo=RecordRTC&logoColor=black">
       <img src="https://img.shields.io/badge/RECOIL-0550ae?style=for-the-badge&logo=RECOIL&logoColor=black">
