@@ -43,6 +43,8 @@
     </p>
     <br>
     <h4>💡used at least once</h4>
+    <img src="https://img.shields.io/badge/JAVA-a35808?style=for-the-badge&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/react--beautiful--dnd-0baf7c?style=for-the-badge&logo=react-native&logoColor=white">
     <img src="https://img.shields.io/badge/react--native-673AB8?style=for-the-badge&logo=react-native&logoColor=white">
     <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=black">
