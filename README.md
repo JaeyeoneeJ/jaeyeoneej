@@ -10,11 +10,11 @@
     <p>안녕하세요! 주니어 프론트엔드 개발자 <strong>정재연</strong>입니다 👋🏻</p>
     <p>
         <img src="https://img.shields.io/badge/-Challenge-informational" />&nbsp; 
-        최근에는 <strong>Interactive</strong>한 UI/UX에 관심이 많아 animate를 공부하고 있습니다.
+        최근에는 <strong>사용자의 UX 경험</strong>을 높이기 위해 config-overrides를 통한 모듈(bundle.js) 분리를 공부하고 있습니다.
     </p>
     <p>
         <img src="https://img.shields.io/badge/-Style-orange" /> &nbsp; 
-        <strong>창업/브랜드 디자인/경영 컨설팅</strong>을 경험삼아, 제품 개발에 있어 소비자의 니즈를 반영하기 위해 노력합니다.
+        <strong>백엔드를 이해하는</strong> 개발자가 되기 위해 여러 방면으로 고민하는 프론트엔드 개발자입니다.
     </p>
 </div>
 <br>
