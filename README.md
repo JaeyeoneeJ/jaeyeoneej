@@ -7,7 +7,7 @@
     <a href="https://portfolio-nextjs-jaeyeoneej.vercel.app/"><img src="https://img.shields.io/badge/Next.js-portfolio-000000?style=for-the-badge&logo=Next.js&logoColor=white"></a>
     <a href="https://github.com/JaeyeoneeJ/TIL"><img src="https://img.shields.io/badge/GitHub-Today_I_Learn-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
     <h2>I'm Jaeyeon Jeong</h2>
-    <p>안녕하세요! 주니어 프론트엔드 개발자 <strong>정재연</strong>입니다 👋🏻</p>
+    <p>안녕하세요! 프론트엔드 개발자 <strong>정재연</strong>입니다 👋🏻</p>
     <p>
         <img src="https://img.shields.io/badge/-Challenge-informational" />&nbsp; 
         최근에는 <strong>사용자의 UX 경험</strong>을 높이기 위해 config-overrides를 통한 모듈(bundle.js) 분리를 공부하고 있습니다.
