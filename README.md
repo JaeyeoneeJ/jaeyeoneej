@@ -10,11 +10,15 @@
     <p>안녕하세요! 프론트엔드 개발자 <strong>정재연</strong>입니다 👋🏻</p>
     <p>
         <img src="https://img.shields.io/badge/-Challenge-informational" />&nbsp; 
-        최근에는 <strong>사용자의 UX 경험</strong>을 높이기 위해 config-overrides를 통한 모듈(bundle.js) 분리를 공부하고 있습니다.
+        최근에는 <strong>브라우저에서의 연산 속도</strong>를 높이기 위해 C 기반의 웹어셈블리를 공부하고 있습니다.
     </p>
     <p>
-        <img src="https://img.shields.io/badge/-Style-orange" /> &nbsp; 
-        <strong>백엔드를 이해하는</strong> 개발자가 되기 위해 여러 방면으로 고민하는 프론트엔드 개발자입니다.
+        <img src="https://img.shields.io/badge/-Style-orange" />&nbsp;
+        <strong>백엔드를 이해하는</strong> 개발자가 되기 위해 여러 방면으로 고민하는 프론트엔드 개발자입니다. 다양한 언어에 관심이 많아요.
+    </p>
+    <p>
+        <img src="https://img.shields.io/badge/-Recently-teal" />&nbsp;
+        <strong>enact.js와 webOS</strong>로 TV Application을 개발 중이에요. PC나 Cell Phone과 같은 기기에 비해 상대적으로 적은 메모리를 효율적으로 활용하고 사용자 경험을 다채롭게 하는 연구를 하고 있어요.
     </p>
 </div>
 <br>
